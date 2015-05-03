@@ -1,12 +1,12 @@
-username: minixalpha
-baseurl: /StrayBirds
+username: onewindow
+baseurl: /blog
 markdown: redcarpet
 safe: false
 highlighter: pygments
-title: 飞鸟集
-description: 人生到处知何似，应似飞鸿踏雪泥
+title: 一窗风景
+description: 籍由此窗观内心，记录世界，愿为驻足者开一扇窗
 theme: leap-day
-disqusname: minixalpha
+disqusname: onewindow
 
 # theme can be: hack, leap-day, merlot, midnight, minimal, modernist, slate, time-machine
 # those themes are all come from GitHub Pages Themes
